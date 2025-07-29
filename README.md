@@ -202,4 +202,4 @@ For support and questions, please refer to the project documentation or contact 
 
 ---
 
-Built with ❤️ using React and modern web technologies. 
+Built with ❤️ using React and modern web technologies.
