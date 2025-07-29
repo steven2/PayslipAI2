@@ -1,0 +1,126 @@
+# Salary Structure Guide (Version 2.0)
+
+## Detailed Salary Components and Calculation Methods
+**Effective Period: January 1, 2024 - May 31, 2024**
+
+### Overview
+This guide provides detailed explanations of salary components, allowances, deductions, and calculation methods effective for the first five months of 2024.
+
+### Basic Salary Structure (Jan-May 2024)
+
+#### Primary Components
+1. **Base Salary**: Fixed monthly compensation based on position and experience
+2. **Housing Allowance**: 20% of base salary (maximum cap)
+3. **Transportation Allowance**: $250 per month (standard rate)
+4. **Meal Allowance**: $150 per month (taxable benefit)
+
+#### Performance-Based Components
+1. **Performance Bonus**: Up to 8% of annual base salary
+2. **Quarterly Incentives**: Project-based, discretionary
+3. **Annual Merit Increase**: Average 3-5% based on performance review
+
+### Allowance Calculation Methods (V2.0)
+
+#### Housing Allowance
+- Calculation: Base Salary × 0.20
+- Maximum cap: $1,500 per month
+- Eligibility: All full-time employees
+- Tax treatment: Fully taxable income
+
+**Example**: 
+- Base salary: $6,000/month
+- Housing allowance: $6,000 × 0.20 = $1,200/month
+
+#### Transportation Allowance
+- Fixed amount: $250/month for all employees
+- No mileage-based calculation
+- Public transport reimbursement: Up to actual cost
+- Parking allowance: $50/month additional if applicable
+
+#### Professional Development
+- Annual allowance: $1,500 per employee
+- Must be pre-approved training/certification
+- Unused allowance does not carry over
+
+### Overtime Calculation (V2.0 Rates)
+- Regular overtime (weekdays): 1.4x base hourly rate
+- Weekend overtime: 1.7x base hourly rate
+- Holiday overtime: 2.1x base hourly rate
+- Overtime cap: 12 hours per month
+
+#### Hourly Rate Calculation
+**Formula**: (Monthly Base Salary ÷ 21.75 working days) ÷ 8 hours
+**Example**: $5,000 ÷ 21.75 ÷ 8 = $28.74/hour
+
+### Deduction Structure (Jan-May 2024)
+
+#### Mandatory Deductions
+1. **Income Tax**: Progressive rates as per tax reference v3.1
+2. **Social Security**: 6.2% of gross income
+3. **Medicare**: 1.45% of gross income
+4. **Health Insurance**: $180/month (employee portion)
+
+#### Voluntary Deductions
+1. **Retirement Plan**: 6% of base salary (with 50% company match)
+2. **Life Insurance**: $25/month for basic coverage
+3. **Dental Insurance**: $35/month
+4. **Vision Insurance**: $15/month
+
+### Benefits Valuation (V2.0)
+
+#### Employer-Provided Benefits
+- Health insurance employer contribution: $280/month
+- Retirement plan matching: Up to 3% of base salary
+- Paid time off: 18 days annually
+- Sick leave: 10 days annually
+
+### Position Level Structure (Jan-May 2024)
+
+#### Junior Level (Levels 1-3)
+- Base salary range: $3,000 - $4,500
+- Housing allowance: 20% of base
+- Transportation: $250/month
+- Performance bonus cap: 6%
+
+#### Mid Level (Levels 4-6)
+- Base salary range: $4,501 - $7,000
+- Housing allowance: 20% of base
+- Transportation: $250/month
+- Performance bonus cap: 8%
+
+#### Senior Level (Levels 7-10)
+- Base salary range: $7,001 - $12,000
+- Housing allowance: 20% of base (max $1,500)
+- Transportation: $300/month (enhanced rate)
+- Performance bonus cap: 10%
+
+### Calculation Examples (V2.0)
+
+**Example 1: Mid-level Employee**
+- Base salary: $5,500/month
+- Housing allowance: $5,500 × 0.20 = $1,100
+- Transportation: $250
+- Gross income: $6,850/month
+
+**Example 2: Senior Employee**
+- Base salary: $8,000/month
+- Housing allowance: $1,500 (capped)
+- Transportation: $300
+- Gross income: $9,800/month
+
+### Policy Changes Notice
+This version (2.0) was superseded by version 2.1 effective June 1, 2024, which included:
+- Increased housing allowance cap to 25%
+- Enhanced transportation allowances
+- Improved overtime rates
+- Additional benefits
+
+### Documentation
+All salary calculations during Jan-May 2024 should reference this version.
+For June 2024 onwards, refer to Salary Structure Guide v2.1.
+
+**Version**: 2.0
+**Effective From**: January 1, 2024
+**Effective To**: May 31, 2024
+**Last Updated**: January 1, 2024
+**Document ID**: SAL-STR-2024-V2.0 

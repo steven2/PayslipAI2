@@ -1,0 +1,170 @@
+# Overtime Policy
+
+## Company Overtime Compensation Policy
+
+### Policy Statement
+This policy establishes guidelines for overtime work authorization, calculation, and compensation for all eligible employees. The company is committed to fair compensation while managing operational costs and employee work-life balance.
+
+### Scope and Applicability
+This policy applies to all non-exempt employees as defined by the Fair Labor Standards Act (FLSA). Exempt employees are not covered by this overtime policy but may be eligible for compensatory time or other arrangements as determined by management.
+
+### Overtime Definition
+Overtime is defined as:
+- Work performed in excess of 42 hours in a standard workweek
+- Work performed on designated rest days (weekends)
+- Work performed on company holidays
+- Emergency call-out work outside normal business hours
+
+### Authorization Requirements
+
+#### Pre-Approval Required
+All overtime work must be pre-approved by:
+1. Direct supervisor for up to 5 hours per week
+2. Department manager for 6-10 hours per week
+3. Director approval for more than 10 hours per week
+4. Emergency overtime may be approved retroactively within 24 hours
+
+#### Documentation
+- Overtime request form must be completed
+- Business justification must be provided
+- Alternative solutions must be considered
+- Budget impact must be assessed
+
+### Compensation Rates
+
+#### Regular Overtime
+- **Rate**: 1.7x regular hourly rate
+- **Applies to**: Hours 43-50 in a workweek
+- **Calculation**: (Annual Salary ÷ 2080 hours) × 1.5
+
+#### Weekend Overtime
+- **Rate**: 2.0x regular hourly rate
+- **Applies to**: Saturday and Sunday work
+- **Minimum**: 4-hour minimum payment for weekend call-ins
+
+#### Holiday Overtime
+- **Rate**: 2.5x regular hourly rate
+- **Applies to**: Work on designated company holidays
+- **Additional**: Regular holiday pay is also provided
+
+#### Emergency Call-Out
+- **Rate**: 2.0x regular hourly rate
+- **Minimum**: 2-hour minimum payment
+- **Travel Time**: Included in compensation calculation
+
+### Calculation Examples
+
+#### Example 1: Standard Overtime
+Employee: Software Developer
+Annual Salary: $60,000
+Regular Hourly Rate: $28.85 ($60,000 ÷ 2080)
+Overtime Rate: $43.27 ($28.85 × 1.5)
+
+Week with 45 hours worked:
+- Regular hours (40): $1,154 ($28.85 × 40)
+- Overtime hours (5): $216.35 ($43.27 × 5)
+- Total weekly pay: $1,370.35
+
+#### Example 2: Weekend Work
+Employee: Network Administrator
+Annual Salary: $75,000
+Regular Hourly Rate: $36.06
+Weekend Rate: $72.12 ($36.06 × 2.0)
+
+Saturday work (6 hours): $432.72
+
+#### Example 3: Holiday Work
+Employee: Security Guard
+Annual Salary: $45,000
+Regular Hourly Rate: $21.63
+Holiday Rate: $54.08 ($21.63 × 2.5)
+
+Holiday shift (8 hours):
+- Holiday pay: $173.04 (regular 8 hours)
+- Holiday overtime: $432.64 (8 × $54.08)
+- Total: $605.68
+
+### Compensatory Time Option
+
+#### Eligibility
+Government employees and certain exempt staff may choose compensatory time instead of overtime pay.
+
+#### Conversion Rate
+- 1.5 hours of comp time for each overtime hour worked
+- Maximum accumulation: 240 hours
+- Must be used within 12 months of earning
+- Cash payout required if not used by termination
+
+### Record Keeping Requirements
+
+#### Employee Responsibilities
+- Accurate time tracking in company system
+- Daily submission of time records
+- Immediate reporting of any discrepancies
+- Supervisor approval before overtime work
+
+#### Supervisor Responsibilities
+- Review and approve all overtime requests
+- Monitor departmental overtime trends
+- Ensure compliance with budget constraints
+- Investigate and resolve time discrepancies
+
+#### HR/Payroll Responsibilities
+- Maintain accurate overtime records
+- Process overtime payments within standard payroll cycle
+- Generate monthly overtime reports
+- Ensure compliance with labor laws
+
+### Limitations and Restrictions
+
+#### Maximum Overtime
+- No employee may work more than 20 overtime hours per week without executive approval
+- No more than 60 total hours per week without health and safety review
+- Mandatory rest period of 8 hours between shifts
+
+#### Budget Controls
+- Department overtime budgets are established annually
+- Monthly tracking and reporting required
+- Approval required for budget overruns
+- Year-end reconciliation and planning
+
+### Compliance and Monitoring
+
+#### Audit Procedures
+- Quarterly overtime utilization reviews
+- Annual policy compliance audits
+- Random time record verification
+- Exit interview overtime feedback
+
+#### Reporting Requirements
+- Monthly overtime reports to department heads
+- Quarterly cost analysis reports
+- Annual policy effectiveness review
+- Budget variance explanations
+
+### Policy Violations
+
+#### Employee Violations
+- Working unauthorized overtime: Written warning
+- Falsifying time records: Suspension or termination
+- Repeated violations: Progressive discipline
+
+#### Supervisor Violations
+- Approving unauthorized overtime: Coaching or discipline
+- Requiring off-the-clock work: Immediate corrective action
+- Policy non-compliance: Performance improvement plan
+
+### Contact Information
+For questions about this policy:
+- HR Department: ext. 2100
+- Payroll Department: ext. 2150
+- Employee Relations: ext. 2200
+
+### Acknowledgment
+All employees must acknowledge receipt and understanding of this policy annually during performance reviews.
+
+Policy Number: HR-OT-001
+Effective Date: January 1, 2024
+Last Revision: March 1, 2024
+Next Review: January 1, 2025
+Approved By: Chief Human Resources Officer 

@@ -1,0 +1,51 @@
+# Payroll Policy 2024 - First Half (Version 1.0)
+
+## Company Payroll Policy Document
+**Effective Period: January 1, 2024 - June 30, 2024**
+
+### Overview
+This document outlines the company's comprehensive payroll policy for the first half of 2024, including salary structures, benefits, deductions, and payment procedures.
+
+### Salary Structure (H1 2024)
+- Basic Salary: Core monthly compensation
+- Housing Allowance: Up to 22% of basic salary (H1 2024 rate)
+- Transportation Allowance: Fixed monthly amount based on position level
+- Performance Bonus: Quarterly assessment-based bonus (10% cap in H1)
+
+### Payment Schedule
+- Salaries are paid on the 25th of each month
+- If the 25th falls on a weekend or holiday, payment is made on the preceding business day
+- Direct bank transfer is the standard payment method
+
+### Deductions (H1 2024 Rates)
+- Income Tax: Calculated according to government tax brackets (2024 Q1-Q2 rates)
+- Health Insurance: 4.5% of gross salary (shared 50/50 with company)
+- Retirement Fund: 7.5% of basic salary (company matches 100%)
+- Social Security: As per government regulations
+
+### Overtime Policy (H1 2024)
+- Standard overtime rate: 1.5x regular hourly rate
+- Weekend work: 1.8x regular hourly rate  
+- Holiday work: 2.2x regular hourly rate
+- Overtime must be pre-approved by direct supervisor
+- Maximum 15 hours overtime per month
+
+### Benefits (H1 2024)
+- Annual leave: 20 working days per year
+- Sick leave: 12 days per year with medical certificate
+- Maternity/Paternity leave: As per local regulations
+- Professional development allowance: $1,800 per year
+
+### Tax Calculation (H1 2024)
+- Tax brackets as defined in Tax Calculation Reference v3.1
+- Standard deduction: $12,000 annually
+- Marginal tax rates apply progressively
+
+### Compliance
+All payroll procedures comply with local labor laws and tax regulations. This policy is reviewed annually and updated as necessary.
+
+**Version**: 1.0
+**Effective From**: January 1, 2024
+**Effective To**: June 30, 2024
+**Last Updated**: January 1, 2024
+**Document ID**: POL-PAY-2024-001-H1 

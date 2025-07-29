@@ -1,0 +1,131 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "roleId": 1,
+      "email": "admin@company.com",
+      "name": "System Administrator",
+      "role": "Admin",
+      "status": "Active",
+      "lastLogin": "2024-01-15T10:30:00Z",
+      "createdAt": "2023-12-01T09:00:00Z",
+      "updatedAt": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "roleId": 2,
+      "email": "hr.manager@company.com",
+      "name": "Sarah Johnson",
+      "role": "HR Manager",
+      "status": "Active",
+      "lastLogin": "2024-01-15T08:15:00Z",
+      "createdAt": "2023-12-05T14:22:00Z",
+      "updatedAt": "2024-01-15T08:15:00Z"
+    },
+    {
+      "id": "3",
+      "roleId": 2,
+      "email": "hr.assistant@company.com",
+      "name": "Mike Chen",
+      "role": "HR Manager",
+      "status": "Active",
+      "lastLogin": "2024-01-14T16:45:00Z",
+      "createdAt": "2023-12-10T11:30:00Z",
+      "updatedAt": "2024-01-14T16:45:00Z"
+    },
+    {
+      "id": "4",
+      "roleId": 3,
+      "email": "john.doe@company.com",
+      "name": "John Doe",
+      "role": "Employee",
+      "status": "Active",
+      "lastLogin": "2024-01-15T09:22:00Z",
+      "createdAt": "2023-12-15T13:15:00Z",
+      "updatedAt": "2024-01-15T09:22:00Z"
+    },
+    {
+      "id": "5",
+      "roleId": 3,
+      "email": "jane.smith@company.com",
+      "name": "Jane Smith",
+      "role": "Employee",
+      "status": "Active",
+      "lastLogin": "2024-01-15T07:30:00Z",
+      "createdAt": "2023-12-20T10:45:00Z",
+      "updatedAt": "2024-01-15T07:30:00Z"
+    },
+    {
+      "id": "6",
+      "roleId": 3,
+      "email": "bob.wilson@company.com",
+      "name": "Bob Wilson",
+      "role": "Employee",
+      "status": "Inactive",
+      "lastLogin": "2024-01-08T15:20:00Z",
+      "createdAt": "2023-11-15T12:00:00Z",
+      "updatedAt": "2024-01-08T15:20:00Z"
+    },
+    {
+      "id": "7",
+      "roleId": 3,
+      "email": "alice.brown@company.com",
+      "name": "Alice Brown",
+      "role": "Employee",
+      "status": "Active",
+      "lastLogin": "2024-01-15T08:45:00Z",
+      "createdAt": "2024-01-02T09:30:00Z",
+      "updatedAt": "2024-01-15T08:45:00Z"
+    },
+    {
+      "id": "8",
+      "roleId": 3,
+      "email": "tom.davis@company.com",
+      "name": "Tom Davis",
+      "role": "Employee",
+      "status": "Active",
+      "lastLogin": "2024-01-13T14:10:00Z",
+      "createdAt": "2024-01-05T11:20:00Z",
+      "updatedAt": "2024-01-13T14:10:00Z"
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "description": "Full system administrator",
+      "permissions": ["admin_access", "read_users", "write_users", "delete_users", "read_documents", "write_documents", "delete_documents", "read_wage_types"],
+      "userCount": 1,
+      "createdAt": "2023-12-01T09:00:00Z",
+      "updatedAt": "2023-12-01T09:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "HR Manager",
+      "description": "Human resources manager",
+      "permissions": ["read_users", "write_users", "read_documents", "write_documents", "read_wage_types"],
+      "userCount": 2,
+      "createdAt": "2023-12-01T09:00:00Z",
+      "updatedAt": "2023-12-01T09:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Employee",
+      "description": "Regular employee",
+      "permissions": ["read_documents", "read_wage_types"],
+      "userCount": 5,
+      "createdAt": "2023-12-01T09:00:00Z",
+      "updatedAt": "2023-12-01T09:00:00Z"
+    }
+  ],
+  "permissions": [
+    { "id": 1, "name": "read_users", "description": "Read user information", "createdAt": "2023-12-01T09:00:00Z" },
+    { "id": 2, "name": "write_users", "description": "Create and edit users", "createdAt": "2023-12-01T09:00:00Z" },
+    { "id": 3, "name": "delete_users", "description": "Delete users", "createdAt": "2023-12-01T09:00:00Z" },
+    { "id": 4, "name": "read_documents", "description": "Read documents", "createdAt": "2023-12-01T09:00:00Z" },
+    { "id": 5, "name": "write_documents", "description": "Create and edit documents", "createdAt": "2023-12-01T09:00:00Z" },
+    { "id": 6, "name": "delete_documents", "description": "Delete documents", "createdAt": "2023-12-01T09:00:00Z" },
+    { "id": 7, "name": "read_wage_types", "description": "Read wage type information", "createdAt": "2023-12-01T09:00:00Z" },
+    { "id": 8, "name": "admin_access", "description": "Full administrative access", "createdAt": "2023-12-01T09:00:00Z" }
+  ]
+} 

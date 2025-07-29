@@ -1,0 +1,41 @@
+# Payroll Policy 2024
+
+## Company Payroll Policy Document
+
+### Overview
+This document outlines the company's comprehensive payroll policy for the year 2024, including salary structures, benefits, deductions, and payment procedures.
+
+### Salary Structure
+- Basic Salary: Core monthly compensation
+- Housing Allowance: Up to 25% of basic salary
+- Transportation Allowance: Fixed monthly amount based on position level
+- Performance Bonus: Quarterly assessment-based bonus
+
+### Payment Schedule
+- Salaries are paid on the 25th of each month
+- If the 25th falls on a weekend or holiday, payment is made on the preceding business day
+- Direct bank transfer is the standard payment method
+
+### Deductions
+- Income Tax: Calculated according to government tax brackets
+- Health Insurance: 5% of gross salary (shared 50/50 with company)
+- Retirement Fund: 8% of basic salary (company matches 100%)
+- Social Security: As per government regulations
+
+### Overtime Policy
+- Standard overtime rate: 1.6x regular hourly rate
+- Weekend work: 2x regular hourly rate
+- Holiday work: 2.5x regular hourly rate
+- Overtime must be pre-approved by direct supervisor
+
+### Benefits
+- Annual leave: 21 working days per year
+- Sick leave: 14 days per year with medical certificate
+- Maternity/Paternity leave: As per local regulations
+- Professional development allowance: $2,000 per year
+
+### Compliance
+All payroll procedures comply with local labor laws and tax regulations. This policy is reviewed annually and updated as necessary.
+
+Last updated: January 1, 2024
+Document ID: POL-PAY-2024-001 

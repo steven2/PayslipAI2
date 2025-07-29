@@ -1,0 +1,65 @@
+# Payroll Policy 2024 - Second Half (Version 1.1)
+
+## Company Payroll Policy Document
+**Effective Period: July 1, 2024 - December 31, 2024**
+
+### Overview
+This document outlines the company's updated payroll policy for the second half of 2024, including revised salary structures, benefits, deductions, and payment procedures.
+
+### Salary Structure (H2 2024 - Updated)
+- Basic Salary: Core monthly compensation
+- Housing Allowance: Up to 25% of basic salary (INCREASED from 22% in H1)
+- Transportation Allowance: Fixed monthly amount based on position level
+- Performance Bonus: Quarterly assessment-based bonus (15% cap in H2 - INCREASED)
+
+### Payment Schedule
+- Salaries are paid on the 25th of each month
+- If the 25th falls on a weekend or holiday, payment is made on the preceding business day
+- Direct bank transfer is the standard payment method
+
+### Deductions (H2 2024 Updated Rates)
+- Income Tax: Calculated according to government tax brackets (2024 Q3-Q4 updated rates)
+- Health Insurance: 5% of gross salary (INCREASED from 4.5% - shared 50/50 with company)
+- Retirement Fund: 8% of basic salary (INCREASED from 7.5% - company matches 100%)
+- Social Security: As per government regulations
+
+### Overtime Policy (H2 2024 Enhanced)
+- Standard overtime rate: 1.6x regular hourly rate (INCREASED from 1.5x)
+- Weekend work: 2x regular hourly rate (INCREASED from 1.8x)
+- Holiday work: 2.5x regular hourly rate (INCREASED from 2.2x)
+- Overtime must be pre-approved by direct supervisor
+- Maximum 20 hours overtime per month (INCREASED from 15 hours)
+
+### Benefits (H2 2024 Enhanced)
+- Annual leave: 21 working days per year (INCREASED from 20)
+- Sick leave: 14 days per year with medical certificate (INCREASED from 12)
+- Maternity/Paternity leave: As per local regulations
+- Professional development allowance: $2,000 per year (INCREASED from $1,800)
+
+### Tax Calculation (H2 2024)
+- Tax brackets as defined in Tax Calculation Reference v3.2 (updated from v3.1)
+- Standard deduction: $12,500 annually (INCREASED from $12,000)
+- Marginal tax rates apply progressively with updated brackets
+
+### New Benefits (Effective H2 2024)
+- Flexible working arrangements policy
+- Enhanced parental leave benefits
+- Mental health support program
+- Annual wellness allowance: $500
+
+### Policy Changes Summary
+This version includes the following key changes from H1 2024:
+- Increased housing allowance cap from 22% to 25%
+- Enhanced overtime rates across all categories
+- Improved benefits package with higher allowances
+- Updated tax calculation methods
+- New wellness and flexibility programs
+
+### Compliance
+All payroll procedures comply with local labor laws and tax regulations. This policy is reviewed annually and updated as necessary.
+
+**Version**: 1.1
+**Effective From**: July 1, 2024
+**Effective To**: December 31, 2024
+**Last Updated**: July 1, 2024
+**Document ID**: POL-PAY-2024-001-H2 

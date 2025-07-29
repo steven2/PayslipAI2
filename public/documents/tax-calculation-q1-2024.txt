@@ -1,0 +1,83 @@
+# Tax Calculation Reference Q1 2024 (Version 3.1)
+
+## Tax Calculation Methods and Brackets
+**Effective Period: January 1, 2024 - March 31, 2024**
+
+### Overview
+This document provides comprehensive tax calculation methods, brackets, exemptions, and deductions applicable for Q1 2024 payroll processing.
+
+### Income Tax Brackets (Q1 2024)
+**Annual Income Brackets:**
+- $0 - $10,000: 0% (Tax-free threshold)
+- $10,001 - $40,000: 10%
+- $40,001 - $80,000: 22%
+- $80,001 - $160,000: 32%
+- $160,001+: 37%
+
+**Monthly Calculation:**
+- Gross monthly income is annualized for bracket determination
+- Tax calculated on annual basis, then divided by 12
+- Cumulative tax adjustments applied monthly
+
+### Standard Deductions (Q1 2024)
+- Individual standard deduction: $12,000 annually ($1,000 monthly)
+- Additional deduction for retirement contributions: Up to $6,000 annually
+- Health insurance premiums: Fully deductible if employer-sponsored
+
+### Payroll Tax Rates (Q1 2024)
+- Social Security: 6.2% (employee) + 6.2% (employer) = 12.4% total
+- Medicare: 1.45% (employee) + 1.45% (employer) = 2.9% total
+- State income tax: 5% (varies by state)
+- Unemployment insurance: 0.6% (employer only)
+
+### Special Considerations (Q1 2024)
+- Overtime income taxed at regular rates (no special treatment)
+- Bonus income subject to supplemental withholding rate of 22%
+- Housing allowance: Taxable income unless qualifying arrangements
+- Transportation allowance: Up to $280/month tax-free
+
+### Calculation Examples (Q1 2024 Rates)
+
+**Example 1: Monthly salary $5,000**
+- Annual equivalent: $60,000
+- Tax bracket: 22% (for income above $40,000)
+- Tax calculation: 
+  - First $40,000: 10% = $4,000
+  - Remaining $20,000: 22% = $4,400
+  - Total annual tax: $8,400
+  - Monthly tax: $700
+
+**Example 2: Monthly salary $3,000**
+- Annual equivalent: $36,000
+- Tax bracket: 10%
+- Tax calculation:
+  - First $10,000: 0% = $0
+  - Remaining $26,000: 10% = $2,600
+  - Total annual tax: $2,600
+  - Monthly tax: $216.67
+
+### Withholding Guidelines (Q1 2024)
+- Federal income tax withholding based on Form W-4 elections
+- Safe harbor rule: 90% of current year tax or 100% of prior year tax
+- Underpayment penalties apply if withholding insufficient
+
+### Quarterly Filing Requirements
+- Quarterly estimated tax payments due if withholding insufficient
+- Deadlines: April 15, June 15, September 15, January 15
+- Minimum payment: 25% of annual tax liability
+
+### Documentation Requirements
+- All tax calculations must reference this document version
+- Maintain records of tax bracket changes throughout the year
+- Employee tax documents updated with current rates
+
+### Compliance Notes
+- Rates subject to legislative changes during the year
+- Monitor IRS guidance for mid-year adjustments
+- State tax calculations may vary - consult state-specific guidance
+
+**Version**: 3.1
+**Effective From**: January 1, 2024
+**Effective To**: March 31, 2024
+**Last Updated**: January 1, 2024
+**Document ID**: TAX-REF-2024-Q1 

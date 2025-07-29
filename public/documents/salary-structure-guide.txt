@@ -1,0 +1,84 @@
+# Salary Structure Guide
+
+## Understanding Your Payslip Components
+
+### Introduction
+This guide explains the various components that make up your monthly salary and how they are calculated.
+
+### Basic Salary Components
+
+#### 1. Basic Salary
+- The fundamental component of your compensation
+- Typically 60-70% of your total package
+- Used as the base for calculating other allowances and benefits
+- Subject to income tax and all statutory deductions
+
+#### 2. Housing Allowance
+- Provided to assist with accommodation costs
+- Usually ranges from 20-25% of basic salary
+- May be partially or fully tax-exempt depending on local regulations
+- Can be paid directly to landlord or to employee
+
+#### 3. Transportation Allowance
+- Fixed monthly amount based on position level
+- Covers commuting and work-related travel expenses
+- Entry level: $200/month
+- Mid level: $300/month
+- Senior level: $500/month
+- Executive level: $800/month
+
+#### 4. Medical Allowance
+- Annual allocation for medical expenses
+- Reimbursed against valid medical receipts
+- Family coverage available for dependents
+- Amount varies by position and years of service
+
+### Variable Components
+
+#### Performance Bonus
+- Quarterly assessment based on KPIs
+- Ranges from 0-25% of quarterly basic salary
+- Based on individual and company performance metrics
+- Paid with the salary following the assessment period
+
+#### Overtime Compensation
+- Calculated hourly based on basic salary
+- Regular overtime: 1.5x hourly rate
+- Weekend overtime: 2x hourly rate
+- Holiday overtime: 2.5x hourly rate
+
+### Deductions
+
+#### Statutory Deductions
+- Income Tax: Progressive rates based on annual income
+- Social Security: Fixed percentage as per regulations
+- Health Insurance: Employee contribution portion
+
+#### Voluntary Deductions
+- Retirement Fund: Optional additional contributions
+- Life Insurance: Group insurance premiums
+- Parking Fees: Monthly parking space rental
+
+### Tax Optimization Tips
+- Maximize retirement fund contributions
+- Utilize flexible spending accounts
+- Keep medical expense receipts
+- Understand tax-exempt allowances
+
+### Calculation Example
+Basic Salary: $5,000
+Housing Allowance: $1,250 (25%)
+Transportation: $300
+Medical Allowance: $200
+Gross Salary: $6,750
+
+Deductions:
+Income Tax: $945 (14%)
+Health Insurance: $337.50 (5%)
+Retirement Fund: $400 (8% of basic)
+Total Deductions: $1,682.50
+
+Net Salary: $5,067.50
+
+Document Version: 2.1
+Last Updated: March 15, 2024 
